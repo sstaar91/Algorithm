@@ -7,6 +7,7 @@
 - JavaScript
 
 ## 풀이코드
+### Level 1
 - [로또 최고 순위와 최저 순위](https://github.com/sstaar91/Algorithm/blob/master/Lotto.js)
 - [신규 아이디 추천](https://github.com/sstaar91/Algorithm/blob/master/NewId.js)
 - [숫자 문자열과 영단어](https://github.com/sstaar91/Algorithm/blob/master/NumberString.js)
