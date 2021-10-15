@@ -13,7 +13,6 @@
 ### Level 1
 
 #### 카카오
-
 - [신규 아이디 추천](https://github.com/sstaar91/Algorithm/blob/master/Kakao/NewId.js)
 - [숫자 문자열과 영단어](https://github.com/sstaar91/Algorithm/blob/master/Kakao/NumberString.js)
 - [크레인 인형뽑기 게임](https://github.com/sstaar91/Algorithm/blob/master/Kakao/Crain.js)
@@ -32,7 +31,6 @@
 - [나머지가 1이 되는 수 찾기](https://github.com/sstaar91/Algorithm/blob/master/CodeChallenge/Season3_Level1.js)
 
 #### 그 외
-
 - [로또 최고 순위와 최저 순위](https://github.com/sstaar91/Algorithm/blob/master/Lotto.js)
 - [소수 만들기](https://github.com/sstaar91/Algorithm/blob/master/CreateDecimal.js)
 - [완주하지 못한 선수](https://github.com/sstaar91/Algorithm/blob/master/Marathon.js)
