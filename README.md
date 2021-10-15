@@ -18,7 +18,7 @@
 - [음양 더하기](https://github.com/sstaar91/Algorithm/blob/master/CodeChallenge/Season2_Level1.js)
 #### 월간 코드 챌린지 3
 - [없는 숫자 더하기](https://github.com/sstaar91/Algorithm/blob/master/CodeChallenge/Season3_Level1.js)
-
+#### 그 외
 - [로또 최고 순위와 최저 순위](https://github.com/sstaar91/Algorithm/blob/master/Lotto.js)
 - [소수 만들기](https://github.com/sstaar91/Algorithm/blob/master/CreateDecimal.js)
 - [나머지가 1이 되는 수 찾기](https://github.com/sstaar91/Algorithm/blob/master/remainder.js)
