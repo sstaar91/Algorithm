@@ -15,3 +15,4 @@
 - [소수 만들기](https://github.com/sstaar91/Algorithm/blob/master/CreateDecimal.js)
 - [나머지가 1이 되는 수 찾기](https://github.com/sstaar91/Algorithm/blob/master/remainder.js)
 - [완주하지 못한 선수](https://github.com/sstaar91/Algorithm/blob/master/Marathon.js)
+- [K번째 수](https://github.com/sstaar91/Algorithm/blob/master/SearchKnum.js)
