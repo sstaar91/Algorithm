@@ -30,7 +30,8 @@
 
 #### 연습문제
 
-- [직사각형 별찍기](https://github.com/sstaar91/Algorithm/blob/master/Practice/Leve1_211018.js) / [x만큼 간격이 있는 n개의 숫자](https://github.com/sstaar91/Algorithm/blob/master/Practice/Leve1_211018.js) / [행렬의 덧셈](https://github.com/sstaar91/Algorithm/blob/master/Practice/Leve1_211018.js)
+- [직사각형 별찍기](https://github.com/sstaar91/Algorithm/blob/master/Practice/Leve1_211018.js) / [x만큼 간격이 있는 n개의 숫자](https://github.com/sstaar91/Algorithm/blob/master/Practice/Leve1_211018.js) / [행렬의 덧셈](https://github.com/sstaar91/Algorithm/blob/master/Practice/Leve1_211018.js) / [핸드폰 번호 가리기](https://github.com/sstaar91/Algorithm/blob/master/Practice/Leve1_211018.js) / [하샤도 수](https://github.com/sstaar91/Algorithm/blob/master/Practice/Leve1_211018.js)
+- 
 
 #### 그 외
 
