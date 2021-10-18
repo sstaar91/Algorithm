@@ -29,3 +29,11 @@ function solution(x, n) {
   }
   return answer;
 }
+
+// 풀이 날짜 : 21.10.18
+// 출처 : 프로그래머스 - 행렬이 덧셈
+// 문제 내용 : 같은 크기의 배열에서 같은 인덱스에 있는 값을 더하기
+
+function solution(arr1, arr2) {
+  return arr1.map((a, i) => a.map((b, j) => b + arr2[i][j]));
+}
