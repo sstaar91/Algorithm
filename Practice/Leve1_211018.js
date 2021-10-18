@@ -15,3 +15,17 @@ process.stdin.on("data", (data) => {
     console.log(result);
   }
 });
+
+// 풀이 날짜 : 21.10.18
+// 출처 : 프로그래머스 - x만큼 간격이 있는 n개의 숫자
+// 문제 내용 : 주어진 x와 n을 이욯한 숫자 배열 만들기
+
+function solution(x, n) {
+  var answer = [];
+  const add = x;
+  for (let i = 0; i < n; i++) {
+    answer.push(x);
+    x = x + add;
+  }
+  return answer;
+}
