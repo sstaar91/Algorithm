@@ -31,9 +31,23 @@ function solution(x, n) {
 }
 
 // 풀이 날짜 : 21.10.18
-// 출처 : 프로그래머스 - 행렬이 덧셈
+// 출처 : 프로그래머스 - 행렬의 덧셈
 // 문제 내용 : 같은 크기의 배열에서 같은 인덱스에 있는 값을 더하기
 
 function solution(arr1, arr2) {
   return arr1.map((a, i) => a.map((b, j) => b + arr2[i][j]));
+}
+
+// 풀이 날짜 : 21.10.18
+// 출처 : 프로그래머스 - 핸드폰 번호 가리기
+// 문제 내용 : 번호에서 뒷번호 4자리를 제외한 번호를 가리기
+
+function solution(phone_number) {
+  var answer = "";
+  let backNum = phone_number.slice(
+    phone_number.length - 4,
+    phone_number.length
+  );
+  answer = "*".repeat(phone_number.length - 4) + backNum;
+  return answer;
 }
