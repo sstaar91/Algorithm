@@ -51,3 +51,17 @@ function solution(phone_number) {
   answer = "*".repeat(phone_number.length - 4) + backNum;
   return answer;
 }
+
+// 풀이 날짜 : 21.10.18
+// 출처 : 프로그래머스 - 하샤드 수
+// 문제 내용 : 어떤 수의 자릿수를 다 더한 값으로 어떤 수를 나눴을 때 나누어 떨어지는 수 찾기
+
+function solution(x) {
+  var answer = true;
+  let digit = String(x).split("");
+  let Num = 0;
+  for (let i = 0; i < digit.length; i++) {
+    Num = Num + Number(digit[i]);
+  }
+  return x % Num === 0 ? (answer = true) : (answer = false);
+}
