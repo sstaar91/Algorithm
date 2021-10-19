@@ -54,3 +54,33 @@ function solution(n, m) {
   }
   return answer;
 }
+
+// 풀이 날짜 : 21.10.19
+// 출처 : 프로그래머스 - 짝수와 홀수
+// 문제 내용 : 인자로 들어온 수가 짝수인지 홀수인지 판단하기
+
+function solution(num) {
+  var answer = "";
+  return num % 2 === 0 ? (answer = "Even") : (answer = "Odd");
+}
+
+// 풀이 날짜 : 21.10.19
+// 출처 : 프로그래머스 - 제일 작은 수 제거하기
+// 문제 내용 : 숫자 배열에서 제일 작은 수 제거하기
+
+function solution(arr) {
+  var answer = [];
+  if (arr.length === 1) {
+    answer.push(-1);
+  } else {
+    let minNum = arr[0];
+    for (let i = 1; i < arr.length; i++) {
+      if (minNum > arr[i]) {
+        minNum = arr[i];
+      }
+    }
+    arr.splice(arr.indexOf(minNum), 1);
+    answer = arr;
+  }
+  return answer;
+}
