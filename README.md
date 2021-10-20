@@ -22,7 +22,7 @@
 
 #### 월간 코드 챌린지 2
 
-- [음양 더하기](https://github.com/sstaar91/Algorithm/blob/master/CodeChallenge/Season2_Level1.js)
+- [음양 더하기](https://github.com/sstaar91/Algorithm/blob/master/CodeChallenge/Season2_Level1.js) / [약수의 개수와 덧셈](https://github.com/sstaar91/Algorithm/blob/master/CodeChallenge/Season2_Level1.js)
 
 #### 월간 코드 챌린지 3
 
