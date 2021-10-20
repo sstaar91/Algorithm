@@ -13,3 +13,25 @@ function solution(absolutes, signs) {
   }
   return answer;
 }
+
+// 풀이 날짜 : 21.10.19
+// 출처 : 프로그래머스 - 약수의 개수와 덧셈
+// 문제 내용 : 약수가 짝수면 더하고 홀수면 빼서 값을 확인하기
+
+function solution(left, right) {
+  var answer = 0;
+  for (let i = left; i < right + 1; i++) {
+    let count = 1;
+    for (let l = 2; l < i + 1; l++) {
+      if (i % l === 0) {
+        count++;
+      }
+    }
+    if (count % 2 === 0) {
+      answer = answer + i;
+    } else {
+      answer = answer - i;
+    }
+  }
+  return answer;
+}
