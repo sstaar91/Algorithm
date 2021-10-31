@@ -18,7 +18,7 @@
 
 #### 월간 코드 챌린지 1
 
-- [내적](https://github.com/sstaar91/Algorithm/blob/master/CodeChallenge/Season1_Level1.js) / [두 개 뽑아서 더하기](https://github.com/sstaar91/Algorithm/blob/master/CodeChallenge/Season1_Level1.js)
+- [내적](https://github.com/sstaar91/Algorithm/blob/master/CodeChallenge/Season1_Level1.js) / [두 개 뽑아서 더하기](https://github.com/sstaar91/Algorithm/blob/master/CodeChallenge/Season1_Level1.js) / [3진법 뒤집기](https://github.com/sstaar91/Algorithm/blob/master/CodeChallenge/Season1_Level1.js)
 
 #### 월간 코드 챌린지 2
 
