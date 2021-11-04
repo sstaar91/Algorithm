@@ -31,3 +31,18 @@ function solution(arr, divisor) {
     return newArr;
   }
 }
+
+// 출처 : 프로그래머스 - 같은 숫자는 싫어
+// 문제 내용 : 주어진 배열에서 중복을 제거한 숫자 배열을 다시 도출
+
+function solution(arr) {
+  var answer = [];
+  let num = -1;
+  for (let i = 0; i < arr.length; i++) {
+    if (num !== arr[i]) {
+      answer.push(arr[i]);
+      num = arr[i];
+    }
+  }
+  return answer;
+}
