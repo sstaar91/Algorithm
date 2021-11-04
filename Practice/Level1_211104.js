@@ -61,3 +61,13 @@ function solution(s) {
   }
   return answer;
 }
+
+// 출처 : 프로그래머스 - 2016년
+// 문제 내용 : 주어진 숫자를 이용해 2016년의 해당 날짜의 요일 도출
+
+function solution(a, b) {
+  const date = "2016-" + a + "-" + b;
+  const week = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
+  let today = new Date(date).getDay();
+  return week[today];
+}
