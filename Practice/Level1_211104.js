@@ -19,3 +19,15 @@ function solution(a, b) {
     return sum;
   }
 }
+
+// 출처 : 프로그래머스 - 나누어 떨어지는 숫자 배열
+// 문제 내용 : 주어진 숫자 배열 중 어떠한 숫자로 나누어 떨어지는 숫자들로만 이루어진 배열 만들기
+
+function solution(arr, divisor) {
+  let newArr = arr.filter((a) => a % divisor === 0).sort((a, b) => a - b);
+  if (newArr.length === 0) {
+    return [-1];
+  } else {
+    return newArr;
+  }
+}
