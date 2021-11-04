@@ -46,3 +46,18 @@ function solution(arr) {
   }
   return answer;
 }
+
+// 출처 : 프로그래머스 - 가운데 글자 가져오기
+// 문제 내용 : 문자열의 가운데 글자 가져오기
+
+function solution(s) {
+  var answer = "";
+  const remainder = s.length % 2;
+  const middleNum = parseInt(s.length / 2);
+  if (remainder === 1) {
+    answer = s[middleNum];
+  } else {
+    answer = s.slice(middleNum - 1, middleNum + 1);
+  }
+  return answer;
+}
