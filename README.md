@@ -39,4 +39,4 @@
 
 #### 그 외
 
-- [로또 최고 순위와 최저 순위](https://github.com/sstaar91/Algorithm/blob/master/Lotto.js) / [소수 만들기](https://github.com/sstaar91/Algorithm/blob/master/CreateDecimal.js) / [완주하지 못한 선수](https://github.com/sstaar91/Algorithm/blob/master/Marathon.js) / [K번째 수](https://github.com/sstaar91/Algorithm/blob/master/SearchKnum.js) / [체육복](https://github.com/sstaar91/Algorithm/blob/master/GymSuit.js) / [폰켓몬](https://github.com/sstaar91/Algorithm/blob/master/Phonekemon.js) / [예산](https://github.com/sstaar91/Algorithm/blob/master/Budget.js)
+- [로또 최고 순위와 최저 순위](https://github.com/sstaar91/Algorithm/blob/master/Lotto.js) / [소수 만들기](https://github.com/sstaar91/Algorithm/blob/master/CreateDecimal.js) / [완주하지 못한 선수](https://github.com/sstaar91/Algorithm/blob/master/Marathon.js) / [K번째 수](https://github.com/sstaar91/Algorithm/blob/master/SearchKnum.js) / [체육복](https://github.com/sstaar91/Algorithm/blob/master/GymSuit.js) / [폰켓몬](https://github.com/sstaar91/Algorithm/blob/master/Phonekemon.js) / [예산](https://github.com/sstaar91/Algorithm/blob/master/Budget.js) / [최소 직사각형](https://github.com/sstaar91/Algorithm/blob/master/MinRectangle.js)
