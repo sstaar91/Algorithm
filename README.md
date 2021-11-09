@@ -14,7 +14,7 @@
 
 #### 카카오
 
-- [신규 아이디 추천](https://github.com/sstaar91/Algorithm/blob/master/Kakao/NewId.js) / [숫자 문자열과 영단어](https://github.com/sstaar91/Algorithm/blob/master/Kakao/NumberString.js) / [크레인 인형뽑기 게임](https://github.com/sstaar91/Algorithm/blob/master/Kakao/Crain.js) / [키패드 누르기](https://github.com/sstaar91/Algorithm/blob/master/Kakao/KeyPad.js)
+- [신규 아이디 추천](https://github.com/sstaar91/Algorithm/blob/master/Kakao/NewId.js) / [숫자 문자열과 영단어](https://github.com/sstaar91/Algorithm/blob/master/Kakao/NumberString.js) / [크레인 인형뽑기 게임](https://github.com/sstaar91/Algorithm/blob/master/Kakao/Crain.js) / [키패드 누르기](https://github.com/sstaar91/Algorithm/blob/master/Kakao/KeyPad.js) / [실패율](https://github.com/sstaar91/Algorithm/blob/master/Kakao/FailRatio.js)
 
 #### 월간 코드 챌린지 1
 
