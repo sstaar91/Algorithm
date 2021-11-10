@@ -15,6 +15,7 @@
 #### 카카오
 
 - [신규 아이디 추천](https://github.com/sstaar91/Algorithm/blob/master/Kakao/NewId.js) / [숫자 문자열과 영단어](https://github.com/sstaar91/Algorithm/blob/master/Kakao/NumberString.js) / [크레인 인형뽑기 게임](https://github.com/sstaar91/Algorithm/blob/master/Kakao/Crain.js) / [키패드 누르기](https://github.com/sstaar91/Algorithm/blob/master/Kakao/KeyPad.js) / [실패율](https://github.com/sstaar91/Algorithm/blob/master/Kakao/FailRatio.js)
+- [비밀지도](https://github.com/sstaar91/Algorithm/blob/master/Kakao/SecretMap.js)
 
 #### 월간 코드 챌린지 1
 
@@ -39,5 +40,5 @@
 
 #### 그 외
 
-- [로또 최고 순위와 최저 순위](https://github.com/sstaar91/Algorithm/blob/master/Lotto.js) / [소수 만들기](https://github.com/sstaar91/Algorithm/blob/master/CreateDecimal.js) / [완주하지 못한 선수](https://github.com/sstaar91/Algorithm/blob/master/Marathon.js) / [K번째 수](https://github.com/sstaar91/Algorithm/blob/master/SearchKnum.js) / [체육복](https://github.com/sstaar91/Algorithm/blob/master/GymSuit.js) 
+- [로또 최고 순위와 최저 순위](https://github.com/sstaar91/Algorithm/blob/master/Lotto.js) / [소수 만들기](https://github.com/sstaar91/Algorithm/blob/master/CreateDecimal.js) / [완주하지 못한 선수](https://github.com/sstaar91/Algorithm/blob/master/Marathon.js) / [K번째 수](https://github.com/sstaar91/Algorithm/blob/master/SearchKnum.js) / [체육복](https://github.com/sstaar91/Algorithm/blob/master/GymSuit.js)
 - [폰켓몬](https://github.com/sstaar91/Algorithm/blob/master/Phonekemon.js) / [예산](https://github.com/sstaar91/Algorithm/blob/master/Budget.js) / [최소 직사각형](https://github.com/sstaar91/Algorithm/blob/master/MinRectangle.js) / [부족한 금액 계산하기](https://github.com/sstaar91/Algorithm/blob/master/LackMoney.js)
