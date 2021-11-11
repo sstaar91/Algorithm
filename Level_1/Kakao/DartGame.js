@@ -3,7 +3,6 @@
 // 문제 내용 : 다트게임의 총 점을 구하자
 
 function solution(dartResult) {
-  var answer = 0;
   let bonus = dartResult.split(/[0-9,*#]/).filter((el) => el !== "");
   let score = dartResult.split(/[A-Z,*#]/).filter((el) => el !== "");
   let option = dartResult
@@ -33,5 +32,5 @@ function solution(dartResult) {
       newArr[i] = newArr[i];
     }
   }
-  return (answer = newArr.reduce((a, b) => a + b));
+  return newArr.reduce((a, b) => a + b));
 }
