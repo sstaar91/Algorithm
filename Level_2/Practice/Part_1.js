@@ -19,3 +19,30 @@ function solution(arr) {
 
   return answer;
 }
+
+// 풀이 날짜 : 21.11.15
+// 출처 : 프로그래머스 - 124 나라의 숫자
+// 문제 내용 : 10진수를 124 나라에서 쓰는 방식으로 바꿔보자
+
+function solution(n) {
+  let answer = "";
+
+  while (n > 0) {
+    switch (n % 3) {
+      case 1:
+        answer = "1" + answer;
+        n = parseInt(n / 3);
+        break;
+      case 2:
+        answer = "2" + answer;
+        n = parseInt(n / 3);
+        break;
+      case 0:
+        answer = "4" + answer;
+        n = n / 3 - 1;
+        break;
+    }
+  }
+
+  return answer;
+}
