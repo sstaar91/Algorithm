@@ -46,3 +46,34 @@ function solution(n) {
 
   return answer;
 }
+
+// 풀이 날짜 : 21.11.16
+// 출처 : 프로그래머스 - 가장 큰 정사각형 찾기
+// 문제 내용 : 배열에서 가장 큰 정사각형의 넓이를 구하자
+
+function solution(board) {
+  var answer = 0;
+  let width = board[0].length;
+  let height = board.length;
+
+  if (width < 2 || height < 2) return 1;
+
+  for (let i = 1; i < height; i++) {
+    for (let l = 1; l < width; l++) {
+      if (board[i][l] > 0) {
+        let count = Math.min(
+          board[i - 1][l],
+          board[i - 1][l - 1],
+          board[i][l - 1]
+        );
+        board[i][l] = count + 1;
+      }
+
+      if (answer < board[i][l]) {
+        answer = board[i][l];
+      }
+    }
+  }
+
+  return answer ** 2;
+}

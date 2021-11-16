@@ -65,6 +65,7 @@
 
 #### 연습문제
 
+
 - [N개의 최소공배수](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_1.js) / [124나라의 숫자](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_1.js)
 
 #### 그 외
