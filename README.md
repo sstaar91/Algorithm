@@ -49,7 +49,7 @@
 
 #### 카카오
 
--
+- [문자열 압축](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Kakao/CompressStr.js) /
 
 #### 월간 코드 챌린지 1
 
@@ -64,7 +64,6 @@
 -
 
 #### 연습문제
-
 
 - [N개의 최소공배수](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_1.js) / [124나라의 숫자](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_1.js) / [가장 큰 정사각형 찾기](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_1.js)
 -
