@@ -49,7 +49,7 @@
 
 #### 카카오
 
-- [문자열 압축](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Kakao/CompressStr.js) /
+- [문자열 압축](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Kakao/CompressStr.js) / [오픈채팅방](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Kakao/OpenChat.js)
 
 #### 월간 코드 챌린지 1
 
