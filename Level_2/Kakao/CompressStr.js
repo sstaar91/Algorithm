@@ -7,7 +7,6 @@ function chunkString(str, length) {
 }
 
 function solution(s) {
-  var answer = 0;
   let newArr = [];
   const lengthArr = [];
   for (let i = 0; i < s.length; i++) {
