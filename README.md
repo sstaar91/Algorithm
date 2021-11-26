@@ -70,4 +70,4 @@
 
 #### 그 외
 
--
+- [멀쩡한 사각형](https://github.com/sstaar91/Algorithm/blob/master/Level_2/PlainSquare.js)
