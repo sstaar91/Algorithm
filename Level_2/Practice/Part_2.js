@@ -30,3 +30,13 @@ function solution(n) {
   }
   return newArr[n];
 }
+
+// 풀이 날짜 : 21.12.01
+// 출처 : 프로그래머스 - 최댓값과 최솟값
+// 문제 내용 : 문자열에서 최댓값과 최솟값을 구해라
+
+function solution(s) {
+  const newArr = s.split(" ");
+  newArr.sort((a, b) => a - b);
+  return `${newArr[0]} ${newArr[newArr.length - 1]}`;
+}
