@@ -16,3 +16,17 @@ function solution(s) {
     .join(" ");
   return newArr;
 }
+
+// 풀이 날짜 : 21.12.01
+// 출처 : 프로그래머스 - 피보나치 수
+// 문제 내용 : 피보나치 수로 된 배열에서 해당 숫자를 가져오기
+
+function solution(n) {
+  const newArr = [0];
+  let num = 1;
+  for (let i = 0; i < n; i++) {
+    newArr.push(num % 1234567);
+    num = (newArr[i] % 1234567) + (newArr[i + 1] % 1234567);
+  }
+  return newArr[n];
+}
