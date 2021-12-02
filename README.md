@@ -67,6 +67,7 @@
 
 - [N개의 최소공배수](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_1.js) / [124나라의 숫자](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_1.js) / [가장 큰 정사각형 찾기](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_1.js)
 - [JadenCase 문자열 만들기](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_2.js) / [피보나치 수](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_2.js) / [최댓값과 최솟값](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_2.js)
+- [땅따먹기](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_3.js) /
 
 #### 그 외
 
