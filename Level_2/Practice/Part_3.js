@@ -32,3 +32,25 @@ function solution(s) {
   }
   return t == 0 ? true : false;
 }
+
+// 풀이 날짜 : 21.12.03
+// 출처 : 프로그래머스 - 다음 큰 숫자
+// 문제 내용 : 이진법으로 변경한 숫자의 1의 개수와 동일한 다음 큰 숫자 찾기
+
+const checkNum = (num) => {
+  const ones = num
+    .toString(2)
+    .split("")
+    .filter((data) => data === "1");
+  return ones.length;
+};
+
+function solution(n) {
+  let standard = checkNum(n);
+  for (let i = n + 1; i < n ** 2; i++) {
+    if (standard === checkNum(i)) {
+      return i;
+      break;
+    }
+  }
+}
