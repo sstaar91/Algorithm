@@ -12,3 +12,23 @@ function solution(land) {
   const result = land[land.length - 1].sort((a, b) => a - b);
   return result[result.length - 1];
 }
+
+// 풀이 날짜 : 21.12.03
+// 출처 : 프로그래머스 - 올바른 괄호
+// 문제 내용 : 올바른 괄호가 있는 문자열인지 확인
+
+function solution(s) {
+  const arr = s.split("");
+  let t = 0;
+  for (let i = 0; i < arr.length; i++) {
+    if (arr[i] == "(") {
+      t++;
+    } else {
+      t--;
+    }
+    if (t < 0) {
+      break;
+    }
+  }
+  return t == 0 ? true : false;
+}
