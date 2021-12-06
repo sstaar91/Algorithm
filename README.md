@@ -10,7 +10,7 @@
 
 ## 풀이코드
 
-### Level 1
+<details><summary>Level 1</summary>
 
 #### 카카오
 
@@ -43,9 +43,11 @@
 - [로또 최고 순위와 최저 순위](https://github.com/sstaar91/Algorithm/blob/master/Level_1/Lotto.js) / [소수 만들기](https://github.com/sstaar91/Algorithm/blob/master/Level_1/CreateDecimal.js) / [완주하지 못한 선수](https://github.com/sstaar91/Algorithm/blob/master/Level_1/Marathon.js) / [K번째 수](https://github.com/sstaar91/Algorithm/blob/master/Level_1/SearchKnum.js) / [체육복](https://github.com/sstaar91/Algorithm/blob/master/Level_1/GymSuit.js)
 - [폰켓몬](https://github.com/sstaar91/Algorithm/blob/master/Level_1/Phonekemon.js) / [예산](https://github.com/sstaar91/Algorithm/blob/master/Level_1/Budget.js) / [최소 직사각형](https://github.com/sstaar91/Algorithm/blob/master/Level_1/MinRectangle.js) / [부족한 금액 계산하기](https://github.com/sstaar91/Algorithm/blob/master/Level_1/LackMoney.js)
 
+  </details>
+
 ---
 
-### Level 2
+<details><summary>Level 2</summary>
 
 #### 카카오
 
@@ -68,9 +70,11 @@
 - [N개의 최소공배수](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_1.js) / [124나라의 숫자](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_1.js) / [가장 큰 정사각형 찾기](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_1.js)
 - [JadenCase 문자열 만들기](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_2.js) / [피보나치 수](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_2.js) / [최댓값과 최솟값](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_2.js)
 - [땅따먹기](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_3.js) / [올바른 괄호](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_3.js) / [다음 큰 숫자](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_3.js) 
-- [숫자의 변환](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_4.js)
+- [숫자의 ](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Practice/Part_4.js)
 
 
 #### 그 외
 
 - [멀쩡한 사각형](https://github.com/sstaar91/Algorithm/blob/master/Level_2/PlainSquare.js) / [기능 개발](https://github.com/sstaar91/Algorithm/blob/master/Level_2/DevelopFunc.js)
+
+   </details>
