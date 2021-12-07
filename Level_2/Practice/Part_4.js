@@ -20,3 +20,17 @@ function solution(n) {
   }
   return answer;
 }
+
+// 풀이 날짜 : 21.12.07
+// 출처 : 프로그래머스 - 최솟값 만들기
+// 문제 내용 : 두개의 배열에서 곱한 수를 더한 것 중 최솟값 찾기
+
+function solution(A, B) {
+  const arrA = A.sort((a, b) => a - b);
+  const arrB = B.sort((a, b) => b - a);
+  let answer = 0;
+  for (let i = 0; i < arrA.length; i++) {
+    answer += arrA[i] * arrB[i];
+  }
+  return answer;
+}
