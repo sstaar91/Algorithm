@@ -6,7 +6,7 @@
 
 ## 사용 스택
 
-- JavaScript
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 풀이코드
 
@@ -51,7 +51,8 @@
 
 #### 카카오
 
-- [문자열 압축](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Kakao/CompressStr.js) / [오픈채팅방](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Kakao/OpenChat.js) / [n진수 게임](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Kakao/N_Binary.js) / 
+- [문자열 압축](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Kakao/CompressStr.js) / [오픈채팅방](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Kakao/OpenChat.js) /
+- [2018 카카오 3차 코드 테스트](https://github.com/sstaar91/Algorithm/blob/main/Level_2/Kakao/2018_3rd.js) - n진수 게임 / 압축
 
 #### 월간 코드 챌린지 1
 
