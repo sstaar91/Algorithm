@@ -18,7 +18,6 @@ function solution(n, arr1, arr2) {
     }
     return newArr;
   }
-  
 
 // 풀이 날짜 : 21.11.11
 // 출처 : 프로그래머스 - 다트 게임
