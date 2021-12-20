@@ -17,17 +17,11 @@
 - [신규 아이디 추천](https://github.com/sstaar91/Algorithm/blob/master/Level_1/Kakao/NewId.js) / [숫자 문자열과 영단어](https://github.com/sstaar91/Algorithm/blob/master/Level_1/Kakao/NumberString.js) / [크레인 인형뽑기 게임](https://github.com/sstaar91/Algorithm/blob/master/Level_1/Kakao/Crain.js) / [키패드 누르기](https://github.com/sstaar91/Algorithm/blob/master/Level_1/Kakao/KeyPad.js) / [실패율](https://github.com/sstaar91/Algorithm/blob/master/Level_1/Kakao/FailRatio.js)
 - [2018 카카오 1차 코드 테스트](https://github.com/sstaar91/Algorithm/blob/main/Level_1/Kakao/2018_1st.js) - 비밀지도 / 다트게임
 
-#### 월간 코드 챌린지 1
+#### 월간 코드 챌린지
 
-- [내적](https://github.com/sstaar91/Algorithm/blob/master/Level_1/CodeChallenge/Season1_Level1.js) / [두 개 뽑아서 더하기](https://github.com/sstaar91/Algorithm/blob/master/Level_1/CodeChallenge/Season1_Level1.js) / [3진법 뒤집기](https://github.com/sstaar91/Algorithm/blob/master/Level_1/CodeChallenge/Season1_Level1.js)
-
-#### 월간 코드 챌린지 2
-
-- [음양 더하기](https://github.com/sstaar91/Algorithm/blob/master/Level_1/CodeChallenge/Season2_Level1.js) / [약수의 개수와 덧셈](https://github.com/sstaar91/Algorithm/blob/master/Level_1/CodeChallenge/Season2_Level1.js)
-
-#### 월간 코드 챌린지 3
-
-- [없는 숫자 더하기](https://github.com/sstaar91/Algorithm/blob/master/Level_1/CodeChallenge/Season3_Level1.js) / [나머지가 1이 되는 수 찾기](https://github.com/sstaar91/Algorithm/blob/master/Level_1/CodeChallenge/Season3_Level1.js)
+- [코드 챌린지 1](https://github.com/sstaar91/Algorithm/blob/master/Level_1/CodeChallenge/Season1_Level1.js) - 내적 / 두 개 뽑아서 더하기 / 3진법 뒤집기
+- [코드 챌린지 2](https://github.com/sstaar91/Algorithm/blob/master/Level_1/CodeChallenge/Season2_Level1.js) - 음양 더하기 / 약수의 개수와 덧셈
+- [코드 챌린지 3](https://github.com/sstaar91/Algorithm/blob/master/Level_1/CodeChallenge/Season3_Level1.js) - 없는 숫자 더하기 / 나머지가 1이 되는 수 찾기
 
 #### 연습문제
 
@@ -54,17 +48,10 @@
 - [문자열 압축](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Kakao/CompressStr.js) / [오픈채팅방](https://github.com/sstaar91/Algorithm/blob/master/Level_2/Kakao/OpenChat.js) /
 - [2018 카카오 3차 코드 테스트](https://github.com/sstaar91/Algorithm/blob/main/Level_2/Kakao/2018_3rd.js) - n진수 게임 / 압축
 
-#### 월간 코드 챌린지 1
+#### 월간 코드 챌린지
+  
+- [코드 챌린지 1](https://github.com/sstaar91/Algorithm/blob/main/Level_2/CodeChallenge/Season1_Level2.js) - 이진 변환 반복하기
 
-- [이진 변환 반복하기](https://github.com/sstaar91/Algorithm/blob/main/Level_2/CodeChallenge/Season1_Level2.js)
-
-#### 월간 코드 챌린지 2
-
--
-
-#### 월간 코드 챌린지 3
-
--
 
 #### 연습문제
 
