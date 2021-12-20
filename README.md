@@ -56,7 +56,7 @@
 
 #### 월간 코드 챌린지 1
 
--
+- [이진 변환 반복하기](https://github.com/sstaar91/Algorithm/blob/main/Level_2/CodeChallenge/Season1_Level2.js)
 
 #### 월간 코드 챌린지 2
 
